@@ -37,7 +37,7 @@
 
 ## 🖼️ 워드클라우드 예시
 
-![워드클라우드](wordcloud_filtered.png)
+<img width="794" height="601" alt="Image" src="https://github.com/user-attachments/assets/d4000b7c-a8a3-43ad-a7cc-a4c6f5d6dadf" />
 
 ---
 
@@ -48,3 +48,4 @@ selenium
 pandas
 matplotlib
 wordcloud
+
